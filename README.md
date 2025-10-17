@@ -1,7 +1,6 @@
-# 🎯 API Lens
+# API Lens
 
-**API Lens** is an advanced WPF-based API testing tool designed for developers and QA engineers.  
-It allows you to send HTTP requests, visualize responses in a readable format, manage parameters, and save output easily.  
+A comprehensive WPF application designed for analyzing and testing API responses with an intuitive user interface.
 
 ---
 
